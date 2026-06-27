@@ -1,0 +1,8 @@
+{
+  "version": "1.2.1",
+  "notes": "Staff table full-width; filter any column + two-way sort on all tables; sortable staff list in Settings.",
+  "assets": {
+    "mac": { "name": "LMSA-Attendance-Monitor-20260627-1402-mac-signed.zip", "url": "https://github.com/RByrd78/attendance-monitor-releases/releases/download/v1.2.1/LMSA-Attendance-Monitor-20260627-1402-mac-signed.zip", "sha256": "56b2486c2b3986075570c2a809a58ab90285fbbd78521d1289a8876f2115875f" },
+    "win": { "name": "LMSA-Attendance-Monitor-20260627-1002.zip", "url": "https://github.com/RByrd78/attendance-monitor-releases/releases/download/v1.2.1/LMSA-Attendance-Monitor-20260627-1002.zip", "sha256": "4251b64b6174474526e08a8a21222d94a651eb65994e71d9bfaba3a64f7d8d07" }
+  }
+}
